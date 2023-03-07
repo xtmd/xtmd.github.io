@@ -54,7 +54,7 @@ main a::before {
     left: -2px;
     width: 105%;
     z-index: -1;
-    background-color: #1A94CB;
+    background-color: #89da54;
     opacity: .3;
     /* transform: skew(-35deg); */
     transition: opacity .2s ease;
